@@ -2,16 +2,23 @@
  <h2 id="teaching" style="margin: 2px 0px 0px;"> <br> 
 <br> Teaching</h2>
  
-<h4 style="margin:0 0  0;">Solo instructor</h4>  
+<h4 style="margin:0 0  0;">Instructor Experience</h4>  
 <ul style="margin:0 0 0;">
   <li><autocolor> Strategic Brand Management (UG, Global Competence Class), Nanyang Technological University (NIE) & Sichuan Provincial Department of Education (SEAIE), 2022 </autocolor></li>
   <ul>
-       <li> Teaching Evaluation (<a href="assets/files/University of British Columbia - 2022W1 UBC Individual Instructor Report for COMM 294 102 - Managerial Accounting (Minjia Li).pdf">report available here</a>): <strong>4.8/5.0</strong>, Class size: <strong>68</strong>. </li>
-      <li> Received the 2023 UBC Paul Chwelos Memorial Graduate Scholarship of Teaching Excellence and recognized by Dean with a <a href="assets/files/Teaching Commendation Letter - Li.pdf">Commendation in Teaching Excellence</a>. </li> 
+       <li> 1 Section, 49 Students; Teaching Evaluation: NA; Incorporated financial accounting concepts; Under the China-Singapore (Chongqing) Demonstration Initiative on Strategic Connectivity (the third China-Singapore intergovernmental cooperation project) </li>
      </ul>
 </ul> 
 
-<h4 style="margin:0 0px 0;">Teaching Assistant</h4>  
+<h4 style="margin:0 0  0;">Teaching Associate Experience</h4>  
+<ul style="margin:0 0 0;">
+  <li><autocolor> Financial Accounting (UG), Prof. Ki-Soon Choi, Boston College (Carroll), 2024 </autocolor></li>
+  <ul>
+       <li> 3 Sections, 99 Students; Teaching Evaluation (<a href="assets/files/University of British Columbia - 2022W1 UBC Individual Instructor Report for COMM 294 102 - Managerial Accounting (Minjia Li).pdf">report available here</a>): Teaching Evaluation: Mean 4.70/5.00, Median 5.00/5.00; Held weekly review sessions and office hours </li>
+     </ul>
+</ul> 
+
+<h4 style="margin:0 0px 0;">Teaching Assistant Experience</h4>  
 <ul style="margin:0 0 5px;">
        <li><autocolor>Financial Accounting (UG, ×2), Prof. Benjamin Yost, Boston College (Carroll), 2023 - 2024 </strong></autocolor></li>
 </ul>
