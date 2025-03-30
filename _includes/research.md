@@ -14,7 +14,7 @@
 </div>
 
 <div>
-  <div class="title"> [1] <strong> <a href="ssrn link 1">Paper 2</a></strong><em>, with </em> </div>
+  <div class="title"> [2] <strong> <a href="ssrn link 1">Paper 2</a></strong><em>, with </em> </div>
   <ul>
     <li>  Under revision  <br></li>
     <li>  Awards: </li>
