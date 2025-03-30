@@ -14,7 +14,7 @@
 <ul style="margin:0 0 0;">
   <li><autocolor> Financial Accounting (UG), Prof. Ki-Soon Choi, Boston College (Carroll), 2024 </autocolor></li>
   <ul>
-       <li> 3 Sections, 99 Students; Teaching Evaluation (<a href="assets/files/University of British Columbia - 2022W1 UBC Individual Instructor Report for COMM 294 102 - Managerial Accounting (Minjia Li).pdf">report available here</a>): Teaching Evaluation: Mean 4.70/5.00, Median 5.00/5.00; Held weekly review sessions and office hours </li>
+       <li> 3 Sections, 99 Students; Teaching Evaluation (<a href="https://www.dropbox.com/home/Teaching/Fin%20Acct%202024%20Fall/Evaluation_2024Fall">report available here</a>): Teaching Evaluation: Mean 4.70/5.00, Median 5.00/5.00; Held weekly review sessions and office hours </li>
      </ul>
 </ul> 
 
