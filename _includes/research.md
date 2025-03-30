@@ -13,7 +13,6 @@
     <li>Featured in: Boston College Carroll Capital, Responsible Investment Research Blog, SSRN on X</li>
     <li>Selected Presentations: INSEAD*, Univ. of Calgary (Haskayne)*, Univ. of Pennsylvania (Wharton)*, 2024 Minnesota Empirical Accounting Conference*, 2025 AAA Sustainability Conference</li>
   </ul>
-
   <div class="title"> 
     [2] <strong> <a href="SSRN Link">To be updated</a></strong> (with) 
   </div>
