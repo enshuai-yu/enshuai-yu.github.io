@@ -4,11 +4,10 @@
 
 
 <div>
-  <div class="title"> [1] <strong> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4847937">Climate-linked Pay and Supply Chain Management</a></strong><em>, solo-authored</em> </div>
+  <div class="title"> [1] <strong> <a href="ssrn link 1">Paper 1</a></strong><em>, solo-authored</em> </div>
   <ul>
-    <li>   Winner of 2024 WFA Brattle Group PhD Candidate Award for Outstanding Research  <br></li>
-     <li>   Winner of 2023 IMA Research Foundation Special Call Research Grant <br></li>
-     <li>   Selected presentations: 2024 WFA conference, 2023 NBER Conference on “Compensation of Top Executives: Determinants and Consequences”, 33rd Annual CFEA</li>
+    <li>   Under revision for 2nd round review at Journal of Accounting and Economics <br></li>
+    
   
   </ul>
 
