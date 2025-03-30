@@ -1,5 +1,4 @@
-<h2 id="teaching" style="margin: 2px 0px 0px;"> <br> 
-<br> Teaching</h2>
+<h2 id="teaching" style="margin-top: 30px;">Teaching</h2>
  
 <h4 style="margin:0 0px 0;">Teaching Associate Experience</h4>  
 <ul style="margin:0 0 5px;">
