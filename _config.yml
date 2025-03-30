@@ -20,8 +20,8 @@ ssrn: https://ssrn.com/author=3983963
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/Enshuai Yu_personal_website.png
-favicon: ./assets/img/favicon-32.png
-favicon_dark: ./assets/img/favicon-32.png
+favicon: ./assets/img/EY-favicon-32.png
+favicon_dark: ./assets/img/EY-favicon-32.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
