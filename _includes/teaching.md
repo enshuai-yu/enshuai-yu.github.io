@@ -2,14 +2,6 @@
  <h2 id="teaching" style="margin: 2px 0px 0px;"> <br> 
 <br> Teaching</h2>
  
-<h4 style="margin:0 0  0;">Instructor Experience</h4>  
-<ul style="margin:0 0 0;">
-  <li><autocolor> Strategic Brand Management (UG, Global Competence Class), Nanyang Technological University (NIE) & Sichuan Provincial Department of Education (SEAIE), 2022 </autocolor></li>
-  <ul>
-       <li> 1 Section, 49 Students; Teaching Evaluation: NA; Incorporated financial accounting concepts; Under the China-Singapore (Chongqing) Demonstration Initiative on Strategic Connectivity (the third China-Singapore intergovernmental cooperation project) </li>
-     </ul>
-</ul> 
-
 <h4 style="margin:0 0  0;">Teaching Associate Experience</h4>  
 <ul style="margin:0 0 0;">
   <li><autocolor> Financial Accounting (UG), Prof. Ki-Soon Choi, Boston College (Carroll), 2024 </autocolor></li>
