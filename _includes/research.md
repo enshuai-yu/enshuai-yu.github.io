@@ -1,5 +1,4 @@
-<h2 id="research" style="margin: 2px 0 0;">Research (TBU)</h2>
-<br><br>
+<h2 id="research" style="margin: 2px 0 0;">Research (TBU) </h2>
 (* = Presentation by Co-Author)
 <div>
   <div class="title"> [1] <strong> <a href="https://ssrn.com/abstract=4743426">Real Effects of Proposed Scope 3 Disclosures</a></strong> (with Mary Ellen Carter and Lian Fen Lee) </div>
