@@ -1,4 +1,4 @@
-<h2 id="research" style="margin: 2px 0 0;">Research</h2>
+<h2 id="research" style="margin-top: 60px;">Research</h2>
 
 <div style="margin: 0;">
   <div style="margin: 0 0 4px 0;">(* = Presentation by Co-Author)</div>
