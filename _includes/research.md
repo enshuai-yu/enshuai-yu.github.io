@@ -15,9 +15,9 @@
   </ul>
 
   <div class="title" style="margin: 0;"> 
-    [2] <strong><a href="SSRN Link">To be updated</a></strong> (with)
+    [2] <strong><a href="Link">To be updated</a></strong> (with)
   </div>
-  <ul style="margin: 2px 0 10px 16px; padding: 0;">
+  <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>...</li>
     <li>...</li>
   </ul>
