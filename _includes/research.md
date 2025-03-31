@@ -10,7 +10,7 @@
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>Under revision for 3rd round review at <em>Journal of Accounting and Economics</em></li>
     <li>Awards: 2023 Boston College Research Catalyst Grant, 2025 Boston College GSA Conference, Research and Professional Development Grant</li>
-    <li>Featured in: Boston College Carroll Capital, Responsible Investment Research Blog, SSRN on X</li>
+    <li>Featured in: <a href="https://web.archive.org/web/20241005013154/https://www.bc.edu/content/bc-web/schools/carroll-school/sites/carroll-capital/spring-2024.html">Boston College Carroll Capital</a>, <a href="https://web.archive.org/web/20240528162027/https://prof-soehnholz.com/category/risikomanagement/">Responsible Investment Research Blog</a>, <a href="https://x.com/SSRN/status/1782016438951161867">SSRN on X</a></li>
     <li>Selected Presentations: INSEAD*, Univ. of Calgary (Haskayne)*, Univ. of Pennsylvania (Wharton)*, 2024 Minnesota Empirical Accounting Conference*, 2025 AAA Sustainability Conference</li>
   </ul>
 
