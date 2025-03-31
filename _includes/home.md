@@ -1,7 +1,4 @@
-
-
-<h2 id="bio" style="margin: 2px 0px 0px;">  
-<br> Short Bio   </h2>
+<h2 id="bio" style="margin-top: 60px;">Short Bio</h2>
 
 Welcome! I am Enshuai (pronounced "En-Shwhy"), a fourth-year Ph.D. candidate in accounting at Carroll School of Management, Boston College. Prior to joining BC Carroll's Ph.D. program, I received a master's degree in finance from Shanghai Advanced Institute of Finance, Shanghai Jiao Tong University, and bachelor's degrees in accounting and psychology (dual degree) from Peking University. I am the Deloitte Foundation Doctoral Fellowship recipient.
 
