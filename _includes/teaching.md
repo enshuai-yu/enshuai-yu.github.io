@@ -5,12 +5,9 @@
   <li>
     <span class="autocolor">Financial Accounting (UG), Prof. Ki-Soon Choi, Boston College (Carroll), 2024</span>
     <ul style="margin: 2px 0 6px 16px; padding-left: 8px;">
-      <li>3 Sections, 99 Students</li>
-      <li>Teaching Evaluation 
+      <li>3 Sections, 99 Students; Teaching Evaluation 
         (<a href="https://www.dropbox.com/home/Teaching/Fin%20Acct%202024%20Fall/Evaluation_2024Fall" target="_blank" rel="noopener noreferrer">report available here</a>): 
-        Mean 4.70/5.00, Median 5.00/5.00
-      </li>
-      <li>Held weekly review sessions and office hours</li>
+        Mean 4.70/5.00, Median 5.00/5.00; Held weekly review sessions and office hours</li>
     </ul>
   </li>
 
