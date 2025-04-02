@@ -187,13 +187,22 @@
           </a>
         {% endif %}
          
-        {% if site.ssrn %}
+<!--         {% if site.ssrn %}
           <a href="{{ site.ssrn }}" target="_blank" rel="noopener noreferrer"
              style="margin-right: 8px; display: inline-flex; align-items: center;">
             <img src="/assets/img/ssrn-icon.png" alt="SSRN" style="height: 24px; width: 24px;" />
           </a>
-        {% endif %}
-        
+        {% endif %} -->
+
+
+        {% if site.ssrn %}
+          <a href="{{ site.ssrn }}" target="_blank" rel="noopener noreferrer"
+            style="margin-right: 12px; display: inline-flex; align-items: center; height: 24px; width: 24px;">
+           <img src="/assets/img/ssrn-icon.png" alt="SSRN"
+                style="max-height: 100%; max-width: 100%; object-fit: contain; display: block;" />
+          </a>
+        {% endif %} 
+         
         {% if site.linkedin %}
           <a href="{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"
              style="margin-right: 8px; display: inline-flex; align-items: center;">
