@@ -30,7 +30,7 @@
   </ul>
 
   <div class="title" style="margin: 0;"> 
-    [4] <strong><a href="Link">To be updated</a></strong> (with)
+    [4] <strong><a href="Link">To be updated</a></strong>
   </div>
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>...</li>
