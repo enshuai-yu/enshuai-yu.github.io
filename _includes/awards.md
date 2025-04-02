@@ -1,14 +1,12 @@
  
  <h2 id="awards" style="margin: 2px 0px 0px;"> <br> 
-<br> Awards and Grants</h2>
+<br> Selected Honors and Awards</h2>
 
 <ul>
- <li><autocolor>CAAA Research Grant ($7,000 CAD), 2024 </autocolor></li>
- <li><autocolor>IMA Research Foundation Academic Grant ($14,000 USD), 2023 </autocolor></li>
- <li><autocolor>UBC Sauder EDI Research Catalyst Grant ($5,000 CAD), 2023 </autocolor></li>
- <li><autocolor>British Columbia Graduate Scholarship ($15,000 CAD), 2022 </autocolor></li>
- <li><autocolor>AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium Fellow, 2022</autocolor></li>
- <li><autocolor>UBC President's Academic Excellence Initiative PhD Award, 2020-2023  </autocolor></li>
- <li><autocolor> UBC Dean Earle D MacPhee Memorial Fellowship , 2019-2023  </autocolor></li>
+ <li><autocolor>Deloitte Foundation Doctoral Fellowship, Deloitte Foundation, 2024-2026 </autocolor></li>
+ <li><autocolor>Consortium Fellow, AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, 2025 </autocolor></li>
+ <li><autocolor>Best Doctoral Paper Award, AAA Annual Ethics Research Symposium, 2024 </autocolor></li>
+ <li><autocolor>Best Paper Award, Rutgers Accounting Doctoral Symposium, 2024 </autocolor></li>
+ <li><autocolor>Finalist, John L. Weinberg/IRRCi Research Paper Award Competition, 2024 </autocolor></li>
 </ul>
 
