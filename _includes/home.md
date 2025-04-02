@@ -4,7 +4,7 @@ Welcome! I am Enshuai (pronounced "En-Shwhy"), a fourth-year Ph.D. candidate in 
 
 My research interests broadly lie in the intersection of inter-firm contracting (e.g., supply chains), regulation and governance, information disclosure, and taxation. I have been invited to present my research at regulatory agencies (e.g., the U.S. Securities and Exchange Commission), universities, and numerous conferences.
 
-Before joining BC Carroll's Ph.D. program, I earned a Master's degree in Finance from <a href="https://en.saif.sjtu.edu.cn/">Shanghai Advanced Institute of Finance at Shanghai Jiao Tong University</a>, and dual Bachelor's degrees in Accounting and Psychology from <a href="https://english.pku.edu.cn/">Peking University</a>.
+Before joining BC Carroll's Ph.D. program, I earned a Master's degree in Finance from <a href="https://en.saif.sjtu.edu.cn/">Shanghai Advanced Institute of Finance at Shanghai Jiao Tong University</a>, and dual Bachelor's degrees in Accounting and Psychology from <a href="https://english.pku.edu.cn/">Peking University</a>. My previous internship experiences span private equity, management consulting, and financial management. I have passed the Certified Management Accountant (CMA) exams.
 
 Outside of academics, I enjoy photography, traveling, running (Half Marathon, 10K×2), hiking, concerts, and playing with Pan Pan (A Golden British Shorthair).
 
