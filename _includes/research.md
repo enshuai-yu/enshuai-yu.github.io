@@ -22,12 +22,19 @@
   </ul>
   
   <div class="title" style="margin: 0;"> 
-    [3] <strong><a href="Link">To be updated</a></strong> (with)
+    [3] <strong>Beyond Disclosure: Signaling Corporate Ties on Social Media</strong> (with Sean Cao, Lijun Lei, and Susan Shu)
+  </div>
+  <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
+    <li>Under review</li>
+    <li>Selected Presentations: Baruch College (Zicklin)*, Chinese Univ. of Hong Kong - Shenzhen (Bus.)*, Hong Kong Polytechnic Univ. (Bus.)*, London School of Economics and Political Science*, Rutgers Univ. (Bus.)*, Temple Univ. (Fox)*, Univ. of Maryland - College Park (Robert H. Smith)*, Univ. of Minnesota - Twin Cities (Carlson)*, 2024 HKUST Accounting Research Symposium*, 2025 AAA AIS and SET Joint Midyear Meeting, 2025 AAA AIS New Scholars Consortium, 2025 AAA IAS Midyear Meeting, 2025 Contemporary Issues in Financial Markets and Banking Conference, 2025 CAAA Annual Conference, 2025 Inter-Finance PhD Seminar</li>
+  </ul>
+
+  <div class="title" style="margin: 0;"> 
+    [4] <strong><a href="Link">To be updated</a></strong> (with)
   </div>
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>...</li>
     <li>...</li>
   </ul>
-
   
 </div>
