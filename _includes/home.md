@@ -1,6 +1,6 @@
 <h2 id="bio" style="margin-top: 10px;">Short Bio</h2>
 
-Welcome! I am Enshuai (pronounced "En-Shwhy"), a fourth-year Ph.D. candidate in accounting at Carroll School of Management, Boston College. I am a Deloitte Foundation Doctoral Fellowship recipient.
+Welcome! I am Enshuai (pronounced "En-Shwhy"), a fourth-year Ph.D. candidate in accounting at <a href="https://www.bc.edu/csom">Carroll School of Management, Boston College</a>. I am a Deloitte Foundation Doctoral Fellowship recipient.
 
 My research interests broadly lie in the intersection of inter-firm contracting (e.g., supply chains), regulation and governance, information disclosure, and taxation. I have been invited to present my research at regulatory agencies (e.g., the U.S. Securities and Exchange Commission), universities, and numerous conferences.
 
