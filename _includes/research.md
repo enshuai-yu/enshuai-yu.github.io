@@ -18,7 +18,7 @@
   </div>
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>Under revision for resubmission as a Registered Report at <em>Journal of Accounting Research</em></li>
-    <li>Presentations: 2024 JAR Third Registered Reports Conference*</li>
+    <li>Selected Presentations: 2024 JAR Third Registered Reports Conference*</li>
   </ul>
   
   <div class="title" style="margin: 0;"> 
