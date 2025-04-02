@@ -4,8 +4,7 @@
   <div style="margin: 0 0 4px 0;">(* = Presentation by Co-Author)</div>
 
   <div class="title" style="margin: 0;"> 
-    [1] <strong><a href="https://ssrn.com/abstract=4743426">Real Effects of Proposed Scope 3 Disclosures</a></strong> 
-    (with Mary Ellen Carter and Lian Fen Lee)
+    [1] <strong><a href="https://ssrn.com/abstract=4743426">Real Effects of Proposed Scope 3 Disclosures</a></strong> (with Mary Ellen Carter and Lian Fen Lee)
   </div>
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>Under revision for 3rd round review at <em>Journal of Accounting and Economics</em></li>
@@ -15,10 +14,20 @@
   </ul>
 
   <div class="title" style="margin: 0;"> 
-    [2] <strong><a href="Link">To be updated</a></strong> (with)
+    [2] <strong><a href="https://www.chicagobooth.edu/-/media/research/arc/docs/journal/2024-rep/bgy-2024-registered-report-proposal.pdf">STEMming the Tide: The Impact of STEM Designation on Accounting Education and the Labor Market</a></strong> (with John Barrios and Ping Gong)
+  </div>
+  <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
+    <li>Under revision for resubmission as a Registered Report at <em>Journal of Accounting Research</em></li>
+    <li>Presentations: 2024 JAR Third Registered Reports Conference*</li>
+  </ul>
+  
+  <div class="title" style="margin: 0;"> 
+    [3] <strong><a href="Link">To be updated</a></strong> (with)
   </div>
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
     <li>...</li>
     <li>...</li>
   </ul>
+
+  
 </div>
