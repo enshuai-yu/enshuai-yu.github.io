@@ -1,5 +1,5 @@
- 
- <h2 id="awards" style="margin: 2px 0px 0px;"> <br> 
+<h2 id="awards" style="margin-top: 60px;">Teaching</h2>
+
 <br> Selected Honors and Awards</h2>
 
 <ul>
