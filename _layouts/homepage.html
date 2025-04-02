@@ -109,7 +109,7 @@
 
     <div class="wrapper">
       <header>
-        
+       
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -131,11 +131,11 @@
         <br>
         <br>
         <div class="social-icons"> 
-       {% if site.google_scholar %}
+<!--        {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
          </a>  
-        {% endif %}
+        {% endif %} -->
 
         {% if site.cv_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
@@ -162,7 +162,7 @@
          </a>
          {% endif %} -->
 
-         {% if site.ssrn %}
+<!--          {% if site.ssrn %}
          <a style="margin: 0 5px 0 0; display: inline-flex; align-items: center;" href="{{ site.ssrn }}" target="_blank" rel="noopener noreferrer">
            <img src="/assets/img/ssrn-icon.png" style="height: 16px" />
          </a>
@@ -173,13 +173,42 @@
           <i class="fab fa-linkedin"></i>
         </a>
         {% endif %}
-
          
         {% if site.twitter %}
         <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
           <i class="fab fa-twitter"></i>
         </a>
+        {% endif %} -->
+
+        {% if site.google_scholar %}
+          <a href="{{ site.google_scholar }}" target="_blank" rel="noopener noreferrer"
+             style="margin-right: 8px; display: inline-flex; align-items: center;">
+            <i class="ai ai-google-scholar" style="font-size: 16px;"></i>
+          </a>
         {% endif %}
+         
+        {% if site.ssrn %}
+          <a href="{{ site.ssrn }}" target="_blank" rel="noopener noreferrer"
+             style="margin-right: 8px; display: inline-flex; align-items: center;">
+            <img src="/assets/img/ssrn-icon.png" alt="SSRN" style="height: 16px; width: 16px;" />
+          </a>
+        {% endif %}
+        
+        {% if site.linkedin %}
+          <a href="{{ site.linkedin }}" target="_blank" rel="noopener noreferrer"
+             style="margin-right: 8px; display: inline-flex; align-items: center;">
+            <i class="fab fa-linkedin" style="font-size: 16px;"></i>
+          </a>
+        {% endif %}
+        
+        {% if site.twitter %}
+          <a href="{{ site.twitter }}" target="_blank" rel="noopener noreferrer"
+             style="margin-right: 8px; display: inline-flex; align-items: center;">
+            <i class="fab fa-twitter" style="font-size: 16px;"></i>
+          </a>
+        {% endif %}
+
+         
         </div>
         <br>
 
