@@ -7,7 +7,7 @@
     [1] <strong>Regulatory Costs and Vertical Integration: Evidence from Supply Chain Disclosure Regulations</strong> (Single-Authored)
   </div>
   <ul style="margin: 2px 0 10px 0; padding-left: 20px;">
-    <li>R&amp;R at <em><u>Journal of Accounting and Economics</u>u></em></li>
+    <li>R&amp;R at <em><u>Journal of Accounting and Economics</u></em></li>
     <li>Developed from second-year summer paper at Boston College (Carroll)</li>
     <li>Awards: 2024 AAA Annual Ethics Research Symposium Best Doctoral Paper Award, 2024 Rutgers Accounting Doctoral Symposium Best Paper Award, 2024 Frankfurt Emerging Scholars in Accounting Conference Travel Grant, 2024 AsianFA Annual Conference Doctoral Consortium Travel Grant, 2024 John L. Weinberg/IRRCi Research Paper Award Competition Finalist, 2023 Accounting Cooperation Forum of Jiaotong Univ. Best Paper Award, 2024 Boston College GSA Conference, Research and Professional Development Grant × 2, 2025 IUB Kelley Innovations to Tackle Global Sustainability Challenges Conference Travel Grant</li>
     <li>Featured in: <a href="https://web.archive.org/web/20241003122824/https://www.ecgi.global/publications/videos/2024-corporate-governance-symposium-regulatory-costs-and-vertical-integration">ECGI</a>, <a href="https://web.archive.org/web/20241005013629/https://thedig.substack.com/p/bottle-caps-coca-cola-outtakes-and?publication_id=526&post_id=147864371&isFreemail=false&r=3fh9js&triedRedirect=true">The Dig</a></li>
